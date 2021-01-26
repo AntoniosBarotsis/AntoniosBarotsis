@@ -1,10 +1,10 @@
 ### Hello 👋!
 
 ## 💻 Things I Love
-- R
 - Data Science
 - Machine Learning
 - Backend
+- Spring Boot
 
 ## Programming Languges
 <img src = 'https://github.com/AntoniosBarotsis/AntoniosBarotsis/blob/master/images/R.png' width='30'/> <img src = 'https://github.com/AntoniosBarotsis/AntoniosBarotsis/blob/master/images/python.png' width='30'/> <img src = 'https://github.com/AntoniosBarotsis/AntoniosBarotsis/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/AntoniosBarotsis/AntoniosBarotsis/blob/master/images/js.svg' width='30'/>
