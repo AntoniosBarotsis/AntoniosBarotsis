@@ -38,6 +38,6 @@
 
 <!-- [![@Tony_'s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tony_&layout=compact&bg_color=45,0396FF,5EFCE8&text_color=000000&title_color=000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark&bg_color=45,5EFCE8,0396FF&text_color=000000&title_color=000000" /> <img
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark&bg_color=45,5EFCE8,0396FF&text_color=000000&title_color=000000" /> <img align="center"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=Tony_&layout=compact&bg_color=45,0396FF,5EFCE8&text_color=000000&title_color=000000" />
