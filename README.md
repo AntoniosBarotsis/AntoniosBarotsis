@@ -8,6 +8,12 @@
 
 ## Programming Languges
 
+<a>
+  <img align="center" src="images/java.svg" alt="java" width="30"/>
+</a>
+<a>
+  <img align="center" src="images/ts.png" alt="typescript" width="30"/>
+</a>
 <img src="images/java.svg" alt="java" width="30"/>
 <img src="images/ts.png" alt="typescript" width="30"/>
 <img src="images/js.svg" alt="javascript" width="30"/>
