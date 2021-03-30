@@ -8,17 +8,11 @@
 
 ## Programming Languges
 
-<a>
-  <img align="center" src="images/java.svg" alt="java" width="30"/>
-</a>
-<a>
-  <img align="center" src="images/ts.png" alt="typescript" width="30"/>
-</a>
-<img src="images/java.svg" alt="java" width="30"/>
-<img src="images/ts.png" alt="typescript" width="30"/>
-<img src="images/js.svg" alt="javascript" width="30"/>
-<img src="images/python.png" alt="python" width="30"/>
-<img src="images/R.png" alt="R" width="30"/>
+<img src="images/java.svg" alt="java" width="30"/> <img
+    src="images/ts.png" alt="typescript" width="30"/> <img
+    src="images/js.svg" alt="javascript" width="30"/> <img
+    src="images/python.png" alt="python" width="30"/> <img
+    src="images/R.png" alt="R" width="30"/>
 
 ## Favorite Frameworks
 <img src="images/spring.png" alt="spring" width="30"/>
