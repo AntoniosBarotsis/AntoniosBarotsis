@@ -9,20 +9,22 @@
 ## Programming Languges
 
 <img src="images/java.svg" alt="java" width="30"/> <img
+    src="images/cs.png" alt="c#" width="30"/> <img
     src="images/ts.png" alt="typescript" width="30"/> <img
     src="images/js.svg" alt="javascript" width="30"/> <img
-    src="images/python.png" alt="python" width="30"/> <img
     src="images/R.png" alt="R" width="30"/>
 
 ## Favorite Frameworks
-<img src="images/spring.png" alt="spring" width="30"/> <img
+<img
+    src="images/netcore.png" alt="netcore" width="30"/> <img 
+    src="images/spring.png" alt="spring" width="30"/> <img
     src="images/nestjs.png" alt="nestjs" width="30"/>
 
 ## Current Works
 
-- Learning more Spring Boot and NestJS
+- Learning C# and .NET
 - Diving into application Security and Authentication
-- Reading up on working with data
+- Building the backend of a mobile application (personal project)
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
