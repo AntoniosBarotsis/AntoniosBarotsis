@@ -2,7 +2,7 @@
 
 ## 💻 Things I Love
 
-- Backend
+- Backend Development
 - Data Science
 - Machine Learning
 
@@ -12,19 +12,22 @@
     src="images/cs.png" alt="c#" width="30"/> <img
     src="images/ts.png" alt="typescript" width="30"/> <img
     src="images/js.svg" alt="javascript" width="30"/> <img
+    src="images/python.png" alt="python" width="30"/> <img
     src="images/R.png" alt="R" width="30"/>
 
-## Favorite Frameworks
+## Frameworks
 <img
     src="images/netcore.png" alt="netcore" width="30"/> <img 
     src="images/spring.png" alt="spring" width="30"/> <img
-    src="images/nestjs.png" alt="nestjs" width="30"/>
+    src="images/nestjs.png" alt="nestjs" width="30"/> <img
+    src="images/fastapi.png" alt="fastapi" width="30"/> <img
+    src="images/django.png" alt="django" width="30"/>
 
 ## Current Works
 
-- Learning C# and .NET
-- Diving into application Security and Authentication
-- Building the backend of a mobile application (personal project)
+- Learning more about Python
+- Polishing my FastAPI experience
+- Jumping back to Machine Learning
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
