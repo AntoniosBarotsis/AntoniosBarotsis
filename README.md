@@ -25,9 +25,12 @@
 
 ## Current Works
 
-- Learning more about Python
-- Polishing my FastAPI experience
-- Jumping back to Machine Learning
+- Jumping back to R through [Datacamp's](https://learn.datacamp.com/career-tracks) career tracks during the summer
+  - [X] R Programmer
+  - [ ] Statistician
+  - [ ] Data Scientist
+  - [ ] Data Analyst
+  - [ ] Machine Learning Scientist
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
