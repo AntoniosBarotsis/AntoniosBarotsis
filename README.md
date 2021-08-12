@@ -34,6 +34,7 @@
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
+- [My Blog](https://antoniosbarotsis.github.io/Blog/)
 - If you have any suggestions to this readme let me know!
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
