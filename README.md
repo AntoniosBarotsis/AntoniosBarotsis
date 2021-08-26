@@ -30,7 +30,7 @@
   - [ ] Statistician
   - [ ] Data Scientist
   - [ ] Data Analyst
-  - [ ] Machine Learning Scientist
+  - [X] Machine Learning Scientist
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
