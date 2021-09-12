@@ -21,16 +21,12 @@
     src="images/spring.png" alt="spring" width="30"/> <img
     src="images/nestjs.png" alt="nestjs" width="30"/> <img
     src="images/fastapi.png" alt="fastapi" width="30"/> <img
-    src="images/django.png" alt="django" width="30"/>
+    src="images/django.png" alt="django" width="30"/> <img
+    src="images/azurefunctions.svg" alt="azure functions" width="32"/>
 
 ## Current Works
 
-- Jumping back to R through [Datacamp's](https://learn.datacamp.com/career-tracks) career tracks during the summer
-  - [X] R Programmer
-  - [ ] Statistician
-  - [ ] Data Scientist
-  - [ ] Data Analyst
-  - [X] Machine Learning Scientist
+Working on Natural Language Processing models and exposing them through APIs at Gilo Technologies.
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
