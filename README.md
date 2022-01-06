@@ -3,8 +3,7 @@
 ## 💻 Things I Love
 
 - Backend Development
-- Data Science
-- Machine Learning
+- Software Architecture
 
 ## Programming Languges
 
@@ -26,7 +25,7 @@
 
 ## Current Works
 
-Working on Natural Language Processing models and exposing them through APIs at Gilo Technologies.
+Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046558490927112?t=naXh1UDMSLlHyqt-S9liYQ&s=09).
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
