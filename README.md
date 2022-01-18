@@ -1,3 +1,5 @@
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/antonios-barotsis-5a26a0199/) ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Tony_Barotsis) ![](https://vistr.dev/badge?repo=AntoniosBarotsis.AntoniosBarotsis)
+
 # Hello 👋
 
 ## 💻 Things I Love
