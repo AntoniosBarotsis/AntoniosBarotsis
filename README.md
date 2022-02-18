@@ -34,6 +34,12 @@ Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046
 - [My Blog](https://antoniosbarotsis.github.io/Blog/)
 - If you have any suggestions to this readme let me know!
 
+## Latest Blog Posts
+
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tony_&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
