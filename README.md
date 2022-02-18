@@ -40,6 +40,8 @@ Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046
 ...
 <!--END_SECTION:feed-->
 
+This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
+
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tony_&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
