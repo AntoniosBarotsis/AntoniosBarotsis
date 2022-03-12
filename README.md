@@ -1,11 +1,11 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-barotsis-5a26a0199/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Tony_Barotsis) ![](https://vistr.dev/badge?repo=AntoniosBarotsis.AntoniosBarotsis&corners=square)
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-barotsis-5a26a0199/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Tony_Barotsis)
 # Hello 👋
 
 ## 💻 Things I Love
 
 - Backend Development
 - Software Architecture
+- Building DevTools, libraries and frameworks
 
 ## Programming Languges
 
