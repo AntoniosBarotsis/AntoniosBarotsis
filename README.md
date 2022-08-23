@@ -7,10 +7,11 @@
 - Software Architecture
 - Building DevTools, libraries and frameworks
 
-## Programming Languges
+## Programming Languages
 
 <img src="images/java.svg" alt="java" width="30"/> <img
     src="images/cs.png" alt="c#" width="30"/> <img
+    src="images/rust.png" alt="c#" width="30"/> <img
     src="images/ts.png" alt="typescript" width="30"/> <img
     src="images/js.svg" alt="javascript" width="30"/> <img
     src="images/python.png" alt="python" width="30"/> <img
@@ -31,8 +32,8 @@ Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
-- [My Blog](https://antoniosbarotsis.github.io/Blog/)
-- If you have any suggestions to this readme let me know!
+- [My Blog](https://antoniosbarotsis.github.io/posts/)
+- If you have any suggestions for this readme let me know!
 
 ## Latest Blog Posts
 

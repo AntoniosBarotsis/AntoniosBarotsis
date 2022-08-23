@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://antoniosbarotsis.github.io/Blog/index.xml
+          feed-url: https://antoniosbarotsis.github.io/posts/index.xml
           readme-section: feed
