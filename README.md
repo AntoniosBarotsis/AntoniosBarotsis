@@ -38,11 +38,11 @@ Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
-* [BudgetFixture](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;Blog&#x2F;posts&#x2F;budgetfixture&#x2F;)
-* [Simple JWT](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;Blog&#x2F;posts&#x2F;simplejwt&#x2F;)
-* [Veritas](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;Blog&#x2F;posts&#x2F;posharp&#x2F;)
-* [Zip it and ship it!](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;Blog&#x2F;posts&#x2F;zipitandshipit&#x2F;)
-* [Project Demeter: Part 2](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;Blog&#x2F;posts&#x2F;demeter&#x2F;part_2&#x2F;)
+* [BudgetFixture](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;budget_fixture&#x2F;)
+* [Simple JWT](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;simple_jwt&#x2F;)
+* [Veritas](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;posharp&#x2F;)
+* [Zip it and ship it!](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;zip_it_and_ship_it&#x2F;)
+* [Testing an ASP .NET Core project](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;aspnet_testing&#x2F;)
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
