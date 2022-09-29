@@ -45,6 +45,8 @@ Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046
 * [Testing an ASP .NET Core project](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;aspnet_testing&#x2F;)
 <!--END_SECTION:feed-->
 
+## Some Github Stats
+
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&text_color=61d9fa&title_color=61d9fa" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=react&background=0D1117" /></a> |
