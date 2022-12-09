@@ -57,4 +57,4 @@ This section is updated dynamically using [this](https://github.com/JasonEtco/rs
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&text_color=61d9fa&title_color=61d9fa" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=react&background=0D1117" /></a> |
 | ------------- | ------------- |
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=AntoniosBarotsis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AntoniosBarotsis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
