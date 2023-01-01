@@ -32,7 +32,7 @@
 
 ## Current Works
 
-Working towards my [2022 goals](https://twitter.com/Tony_Barotsis/status/1478046558490927112?t=naXh1UDMSLlHyqt-S9liYQ&s=09).
+Working towards my [2023 goals](https://twitter.com/Tony_Barotsis/status/1609131868984860673).
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
