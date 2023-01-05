@@ -7,28 +7,20 @@
 
 ## 💻 Things I Love
 
-- Backend Development
-- Software Architecture
 - Building DevTools, libraries and frameworks
+- Software Architecture & System Design
+- Backend Development
 
 ## Programming Languages
 
-<img src="images/java.svg" alt="java" width="30"/> <img
-    src="images/cs.png" alt="c#" width="30"/> <img
-    src="images/rust.png" alt="c#" width="30"/> <img
-    src="images/ts.png" alt="typescript" width="30"/> <img
-    src="images/js.svg" alt="javascript" width="30"/> <img
-    src="images/python.png" alt="python" width="30"/> <img
-    src="images/R.png" alt="R" width="30"/>
+<a href="rust-lang.org"><img src="images/rust.png" alt="c#" width="30"/></a>
+<a href="dotnet.microsoft.com/en-us/languages/csharp"><img src="images/cs.png" alt="c#" width="30"/></a>
+<a href="java.com"><img src="images/java.svg" alt="java" width="30"/></a>
 
 ## Frameworks
-<img
-    src="images/netcore.png" alt="netcore" width="30"/> <img 
-    src="images/spring.png" alt="spring" width="30"/> <img
-    src="images/nestjs.png" alt="nestjs" width="30"/> <img
-    src="images/fastapi.png" alt="fastapi" width="30"/> <img
-    src="images/django.png" alt="django" width="30"/> <img
-    src="images/azurefunctions.svg" alt="azure functions" width="32"/>
+<a href="actix.rs/"><img src="images/actix-web.png" alt="actix-web" width="30"/></a>
+<a href="asp.net"><img src="images/netcore.png" alt="netcore" width="30"/></a>
+<a href="spring.io"><img src="images/spring.png" alt="spring" width="30"/></a>
 
 ## Current Works
 
