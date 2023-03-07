@@ -34,11 +34,11 @@ Working towards my [2023 goals](https://twitter.com/Tony_Barotsis/status/1609131
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Finding Rust crates](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;finding_rust_crates&#x2F;)
 * [Python with a bit of Rust](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;python_package_written_in_rust&#x2F;)
 * [2022 Recapped](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;2022-recapped&#x2F;)
 * [Rss2Email](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;rss2email&#x2F;)
 * [BudgetFixture](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;budget_fixture&#x2F;)
-* [Simple JWT](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;simple_jwt&#x2F;)
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
