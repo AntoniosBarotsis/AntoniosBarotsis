@@ -24,7 +24,8 @@
 
 ## Current Works
 
-Working towards my [2023 goals](https://twitter.com/Tony_Barotsis/status/1609131868984860673).
+- Working towards my [2023 goals](https://twitter.com/Tony_Barotsis/status/1609131868984860673).
+- Working on a 2-month-long, production Rust group project.
 
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/)
