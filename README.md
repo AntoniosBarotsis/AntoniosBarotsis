@@ -35,11 +35,11 @@
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Rewriting it in Rust](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;rewrite_cs_in_rust&#x2F;)
 * [Simple Rust Function Macros](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;simple_rust_macros&#x2F;)
 * [Finding Rust crates](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;finding_rust_crates&#x2F;)
 * [Python with a bit of Rust](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;python_package_written_in_rust&#x2F;)
 * [2022 Recapped](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;2022-recapped&#x2F;)
-* [Rss2Email](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;rss2email&#x2F;)
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
