@@ -10,6 +10,8 @@
 - Building DevTools, libraries and frameworks
 - Software Architecture & System Design
 - Backend Development
+- Performance
+- Rust 🦀
 
 ## Programming Languages
 
@@ -25,10 +27,10 @@
 
 ## Current Works
 
-- Working towards my [2023 goals](https://twitter.com/Tony_Barotsis/status/1609131868984860673).
+- Working towards my [2024 goals](https://twitter.com/Tony_Barotsis/status/1743687653386506460).
 
 ## Other Stuff
-- [My Portfolio](https://antoniosbarotsis.github.io/)
+- [My Portfolio](https://antoniosbarotsis.github.io/about)
 - [My Blog](https://antoniosbarotsis.github.io/posts/)
 - If you have any suggestions for this readme let me know!
 
