@@ -37,11 +37,11 @@
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Linkedlists kinda ..suck?](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;lists-and-vectors&#x2F;)
 * [Aim for the stars](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;aim-for-the-stars&#x2F;)
 * [Efficient Logging](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;efficient-logging&#x2F;)
 * [2023-recapped](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;2023-recapped&#x2F;)
 * [Rewriting it in Rust](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;rewrite_cs_in_rust&#x2F;)
-* [Simple Rust Function Macros](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;simple_rust_macros&#x2F;)
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
