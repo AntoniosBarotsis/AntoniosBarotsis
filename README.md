@@ -1,7 +1,5 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-barotsis-5a26a0199/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Tony_Barotsis)
-![](https://hit.yhype.me/github/profile?user_id=50240570)![](https://hit.yhype.me/github/profile?user_id=50240570)[![wakatime](https://wakatime.com/badge/user/f2b24ac4-cd14-46d7-ac81-740c41798ccb.svg?style=flat-square)](https://wakatime.com/@f2b24ac4-cd14-46d7-ac81-740c41798ccb)
 
-<!-- [![@tony's Holopin board](https://holopin.me/tony)](https://holopin.io/@tony) -->
 
 # Hello 👋
 
