@@ -11,26 +11,9 @@
 - Performance
 - Rust 🦀
 
-## Programming Languages
-
-<a href="https://www.rust-lang.org">
-  <img src="images/rust.png" alt="rust" width="30"/>
-</a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="images/cs.png" alt="c#" width="30"/>
-</a>
-<a href="https://www.java.com/en/">
-  <img src="images/java.svg" alt="java" width="30"/>
-</a>
-
-## Current Works
-
-- Working towards my [2024 goals](https://twitter.com/Tony_Barotsis/status/1743687653386506460).
-
 ## Other Stuff
 - [My Portfolio](https://antoniosbarotsis.github.io/about)
 - [My Blog](https://antoniosbarotsis.github.io/posts/)
-- If you have any suggestions for this readme let me know!
 
 ## Latest Blog Posts
 
@@ -43,11 +26,3 @@
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
-
-## Some Github Stats
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniosbarotsis&count_private=true&show_icons=true&theme=dark&bg_color=0D1117&text_color=61d9fa&title_color=61d9fa" alt="Tony's github stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=AntoniosBarotsis&theme=react&background=0D1117" /></a> |
-| ------------- | ------------- |
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntoniosBarotsis&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
