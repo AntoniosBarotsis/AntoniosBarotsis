@@ -18,11 +18,11 @@
 ## Latest Blog Posts
 
 <!--START_SECTION:feed-->
+* [Peer to Peer Groceries](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;p2p-groceries&#x2F;)
 * [My writing workflow](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;writing-workflow&#x2F;)
 * [Low-effort everything](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;low-effort-everything&#x2F;)
 * [Linkedlists kinda ..suck?](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;lists-and-vectors&#x2F;)
 * [Aim for the stars](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;aim-for-the-stars&#x2F;)
-* [Efficient Logging](https:&#x2F;&#x2F;antoniosbarotsis.github.io&#x2F;posts&#x2F;efficient-logging&#x2F;)
 <!--END_SECTION:feed-->
 
 This section is updated dynamically using [this](https://github.com/JasonEtco/rss-to-readme) action :)
